@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Planteza</string>
+    <string name="app_Name">PLANTEZA</string>
+    <string name="log_in">Log In</string>
+    <string name="username">Username</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="plant_name">Plant Name</string>
+    <string name="sellers">Sellers</string>
+    <string name="blog">Blog</string>
+    <string name="profile">Profile</string>
+    <string name="blog_intro">\"Unlock The Secrets of Successful Gardening With Our App\'s Blog Posts\"</string>
+
+    <string-array name="categories_array">
+        <item>Plant category…</item>
+        <item>Ornamental</item>
+        <item>Edible</item>
+        <item>Herbal</item>
+    </string-array>
+
+    <string-array name="lightening_array">
+        <item>Required Light…</item>
+        <item>Full Sun</item>
+        <item>Semi-shade</item>
+        <item>Shade</item>
+    </string-array>
+
+    <string-array name="watering_array">
+        <item>Watering…</item>
+        <item>Moderate</item>
+        <item>Low</item>
+        <item>Very-low</item>
+    </string-array>
+
+    <string-array name="blog_topics">
+        <item>Choosing the Right Indoor Plants for Your Home</item>
+        <item>Tips for Successful Container Gardening</item>
+        <item>Identifying Common Plant Pests and How to Deal with Them</item>
+        <item>The Importance of Proper Watering Techniques</item>
+        <item>Creating a Beautiful and Functional Herb Garden</item>
+    </string-array>
+
+    <string-array name="blog_info">
+        <item>Having indoor plants can bring life and freshness to your living space. When selecting
+            indoor plants, consider factors such as light requirements, maintenance needs, and the
+            overall aesthetic you desire. \n\nPlants like pathos and snake plants thrive in low light
+            conditions, making them perfect for rooms with limited sunlight. \n\nFor plant beginners,
+            easy-to-care-for options like succulents and peace lilies are excellent choices. Remember
+            to assess the size and growth habits of plants, ensuring they fit well within your available
+            space. \n\nBy carefully selecting the right indoor plants, you can create a harmonious and
+            vibrant environment in your home.</item>
+        <item>Container gardening is a fantastic option for those with limited outdoor space. \n\nStart
+            by choosing suitable containers with proper drainage to avoid waterlogged plants. Select a
+            high-quality potting mix that retains moisture and provides essential nutrients. \n\nWhen
+            planting, \n\t⦿ Consider the specific needs of each plant, Including sunlight requirements
+            and watering schedules. \n\t⦿ Regularly monitor the moisture level in the soil and adjust
+            watering accordingly. \n\t⦿ Additionally, provide adequate support for plants that need
+            it, such as tomato cages or trellises for climbing vines.\n\nWith proper planning
+            and care, container gardening can yield a bountiful harvest even in small spaces.</item>
+        <item>Dealing with plant pests is a common challenge for gardeners. Recognizing the signs of
+            infestation is crucial for prompt intervention. \n\nKeep an eye out for symptoms such as
+            yellowing leaves, wilting, or unusual spots. \n\nCommon pests include aphids, spider mites,
+            and mealybugs. \n\nTo combat these intruders, try organic methods like spraying plants with
+            a mixture of water and mild dish soap or using neem oil. Encouraging beneficial insects
+            like ladybugs and lacewings can also help control pest populations. \n\nRegularly inspecting
+            your plants and taking swift action against pests will keep your garden healthy and thriving.</item>
+        <item>Watering is a vital aspect of plant care, and doing it correctly can make a significant
+            difference in their overall health. \n\nAvoid overwatering, which can lead to root rot and
+            other diseases. Instead, water deeply and less frequently to promote strong root growth.
+            The frequency will depend on factors like plant species, pot size, and environmental conditions.
+            \n\nTo determine when to water, check the moisture level of the soil by sticking your finger
+            about an inch deep. If it feels dry, it is time to water. Remember to water the base of
+            the plants, avoiding foliage, to prevent disease and fungal issues.</item>
+        <item>Having your own herb garden can provide a constant supply of fresh flavors for your
+            culinary creations. Start by selecting the herbs you frequently use in your cooking,
+            such as basil, rosemary, or mint. \n\n\t⦿ Consider the space and sunlight availability when deciding
+            between planting in containers or directly in the ground. \n\n\t⦿ Ensure your herbs receive at least
+            six hours of sunlight per day. \n\n\t⦿ Regular pruning will encourage bushier growth and prevent
+            leggy plants. \n\n\t⦿ Harvest herbs in the morning when the oils are most concentrated. \n\nWith a
+            well-designed and maintained herb garden, you can add delicious and aromatic touches to
+            your meals year-round.</item>
+    </string-array>
+
+</resources>
